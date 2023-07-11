@@ -1,4 +1,7 @@
 This is the list of services with their scope(Global, Regional, zonal) I created while studying for CSCI5902: Special topics in Applied Computer Science (Cloud Architecture).
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 One of the biggest issues I face while preparing for AWS Solution Architect exam is getting confused about the services' scope (Global, Regional, zonal). I usually end up doing google everytime I study a service, so I created a list of services with their scopes and grouped it according to its type (example: EC2 will be in compute group), so that easier to remember.
 
@@ -178,6 +181,20 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sksaifuddin"><img src="https://avatars.githubusercontent.com/u/31506305?v=4?s=100" width="100px;" alt="saif"/><br /><sub><b>saif</b></sub></a><br /><a href="#content-sksaifuddin" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
