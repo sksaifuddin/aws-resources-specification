@@ -60,6 +60,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 8   | Elastic IP (EIP)                                    | Regional                              |
 | 9   | AWS Direct Connect                                  | Regional                              |
 | 10  | AWS Global Accelerator                              | Global                                |
+| 11  | Route 53                                            | Global                                |
 
 ## Database
 
