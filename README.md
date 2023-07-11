@@ -1,4 +1,8 @@
-One of the biggest issues I face while preparing for AWS Solution Architect exam is getting confused about the service scope (Global, Regional, zonal). I usually end up doing google for every service everytime I study a service, so I created a list of services and grouped it according to its type (example: EC2 will be in compute group), so that easier to remember.
+This is the list of services with their scope(Global, Regional, zonal) I created while studying for CSCI5902: Special topics in Applied Computer Science (Cloud Architecture).
+
+One of the biggest issues I face while preparing for AWS Solution Architect exam is getting confused about the services' scope (Global, Regional, zonal). I usually end up doing google everytime I study a service, so I created a list of services with their scopes and grouped it according to its type (example: EC2 will be in compute group), so that easier to remember.
+
+Please help me maintain this list so that its useful for everyone. See the [contribution guidelines](CONTRIBUTING.md)
 
 ## Table of Contents
 
