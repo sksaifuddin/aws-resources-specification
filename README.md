@@ -17,7 +17,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 - [Analytics](#analytics)
 - [Machine Learning](#machine-learning)
 - [Internet of Things (IoT)](#internet-of-things-iot)
-
+- [Contributors](#contributors)
 ---
 
 ## Compute
@@ -174,3 +174,14 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 8   | AWS IoT 1-Click                                     | Regional                              |
 | 9   | AWS IoT Button                                      | Regional                              |
 | 10  | AWS IoT Events                                      | Regional                              |
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
