@@ -16,7 +16,7 @@ There are three ways to contribute here,
 
 2. Add a new service to its appropriate group in [Services list](https://github.com/sksaifuddin/aws-resources-specification/blob/main/README.md). Note: There is no official group for services, you can just add service to the group which logically make sense according to you.
 
-3. Update the table of content
+3. If you created a new group then update the table of content
 
 4. Create the PR.
 
