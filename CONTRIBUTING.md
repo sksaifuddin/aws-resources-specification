@@ -4,10 +4,11 @@ Help me improve and maintain this list.
 
 If this is your first open source contribution please read this https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6
 
-There are two ways to contribute here,
+There are three ways to contribute here,
 
 * If you see a service missing, then add it the list
 * If you find a mistake, correct it.
+* Anykind of improvement to the list.
 
 ### Add a new service to the list or make changes.
 
