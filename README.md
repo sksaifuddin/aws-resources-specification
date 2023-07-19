@@ -35,6 +35,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 6   | AWS Fargate                                         | Regional                              |
 | 7   | AWS Lambda                                          | Regional                              |
 | 8   | AWS Batch                                           | Regional                              |
+| 9   | Amazon Machine Image (AMI)                          | Regional                              |
 
 ## Storage
 
