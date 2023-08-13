@@ -36,6 +36,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 7   | AWS Lambda                                          | Regional                              |
 | 8   | AWS Batch                                           | Regional                              |
 | 9   | Amazon Machine Image (AMI)                          | Regional                              |
+| 10  | Security Groups                                     | Regional                              |
 
 ## Storage
 
