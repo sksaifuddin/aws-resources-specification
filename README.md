@@ -37,6 +37,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 8   | AWS Batch                                           | Regional                              |
 | 9   | Amazon Machine Image (AMI)                          | Regional                              |
 | 10  | Security Groups                                     | Regional                              |
+| 11  | Elastic Network Interface (ENI)                     | AZ - specific                         |
 
 ## Storage
 
