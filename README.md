@@ -59,7 +59,7 @@ Please help me maintain this list so that its useful for everyone. See the [cont
 | 4   | Elastic Load Balancer (ELB)                         | Regional                              |
 | 5   | Network Load Balancer (NLB)                         | Regional                              |
 | 6   | Internet Gateway                                    | Regional                              |
-| 7   | NAT Gateway                                         | Regional                              |
+| 7   | NAT Gateway                                         | AZ-specific                           |
 | 8   | Elastic IP (EIP)                                    | Regional                              |
 | 9   | AWS Direct Connect                                  | Regional                              |
 | 10  | AWS Global Accelerator                              | Global                                |
